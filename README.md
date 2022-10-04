@@ -1,9 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
- <a href="https://www.linkedin.com/in/%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE-%D1%80%D0%BE%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8E%D0%BA-113882206/">
+
+ <a align="center" href="https://www.linkedin.com/in/%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE-%D1%80%D0%BE%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8E%D0%BA-113882206/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
+ 
 <h1 align="center">Hi there, I'm Misha 👋</h1>
 <h2 align="center">Junior Front-end developer</h2>
 
