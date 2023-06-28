@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Misha 👋</h1>
 <h2 align="center">Front-end developer</h2>
 
-- 🌱 I’m currently learning React/Angular
+- 🌱 I’m currently learning React/Angular/.NET
 - 📫 How to reach me misha.roz.2003@gmail.com
 
   <h3>Main:</h3>
