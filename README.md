@@ -4,7 +4,9 @@
  </a>
  
 <h1 align="center">Hi there, I'm Misha 👋</h1>
-<h2 align="center">Full-stack Engineer</h2>
+<h1 align="center">Full-stack Engineer</h2>
+
+<h3 align="center">Visit my peronal website: https://mykhailo-rozdorozhniuk.vercel.app/</h2>
 
 - 📫 How to reach me misha.roz.2003@gmail.com
 
@@ -30,7 +32,9 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
 
   <h3>Back-End</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
   
 
 
