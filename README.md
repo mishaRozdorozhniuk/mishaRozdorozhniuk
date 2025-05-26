@@ -4,7 +4,7 @@
  </a>
  
 <h1 align="center">Hi there, I'm Misha 👋</h1>
-<h2 align="center">Front-end developer</h2>
+<h2 align="center">Full-stack Engineer</h2>
 
 - 📫 How to reach me misha.roz.2003@gmail.com
 
