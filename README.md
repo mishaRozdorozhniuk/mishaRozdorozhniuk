@@ -6,7 +6,8 @@
 <h1 align="center">Hi there, I'm Misha 👋</h1>
 <h1 align="center">Full-stack Engineer</h2>
 
-<h3 align="center">Visit my personal website: https://mykhailo-rozdorozhniuk.vercel.app/</h2>
+<h3 align="center">Visit my personal website: https://fullstacksolution.dev
+ /</h2>
 
 - 📫 How to reach me: misha.roz.2003@gmail.com
 
